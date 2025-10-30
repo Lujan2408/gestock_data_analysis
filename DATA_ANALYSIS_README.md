@@ -619,7 +619,7 @@ El proyecto demuestra competencias avanzadas en:
 ## 📞 Información del Proyecto
 
 ### 👥 Equipo de Desarrollo
-- **Desarrollado por:**: GESTOCK 
+- **Desarrollado por**: GESTOCK 
 - **Institución**: CESDE - Nuevas Tecnologías
 - **Tipo**: Proyecto Integrador
 
