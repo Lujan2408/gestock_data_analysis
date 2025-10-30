@@ -619,7 +619,7 @@ El proyecto demuestra competencias avanzadas en:
 ## 📞 Información del Proyecto
 
 ### 👥 Equipo de Desarrollo
-- **Desarrollador Principal**: Lujan2408
+- **Desarrollado por:**: GESTOCK 
 - **Institución**: CESDE - Nuevas Tecnologías
 - **Tipo**: Proyecto Integrador
 
@@ -644,7 +644,7 @@ Este proyecto es desarrollado como **Proyecto Académico** para CESDE - Nuevas T
 
 <div align="center">
 
-**⭐ Proyecto en desarrollo activo - Octubre 2025 ⭐**
+**⭐ Proyecto desarrollado - Octubre 2025 ⭐**
 
 Desarrollado con ❤️ para optimizar la gestión de inventarios mediante análisis de datos
 
